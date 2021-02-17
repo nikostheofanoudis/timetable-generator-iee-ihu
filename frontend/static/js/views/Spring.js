@@ -26,34 +26,150 @@ export default class extends AbstractView {
                 <tbody>
                     <tr>
                         <td>09:00 - 10:00</td>
-                        <td id="Δευτέρα"></td>
-                        <td id="Τρίτη"></td>
-                        <td id="Τετάρτη"></td>
-                        <td id="Πέμπτη"></td>
-                        <td id="Παρασκευή"></td>
+                        <td id="Δευτέρα">
+                            <p class="function1202a_steps" style="display:none" data-step='1202a'>Μετρήσεις και Κυκλώματα Εναλλασσόμενου Ρεύματος A1</p>
+                            <p class="function1205b_steps" style="display:none" data-step='1205b'>Αντικειμενοστρεφής Προγραμματισμός A2</p>
+                            <p class="function1642_steps" style="display:none" data-step='1642'>Προηγμένα Θέματα Αλληλεπίδρασης (Προγραμματισμός Κινητών Συσκευών)</p>
+                            <p class="function1803_steps" style="display:none" data-step='1803'>Διαδίκτυο των Πραγμάτων</p>
+                        </td>
+                        <td id="Τρίτη">
+                            <p class="function1204a_steps" style="display:none" data-step='1204a'>Σχεδίαση Ψηφιακών Συστημάτων A1</p>
+                            <p class="function1201b_steps" style="display:none" data-step='1201b'>Μαθηματικά ΙΙ A2</p>
+                            <p class="function1405_steps" style="display:none" data-step='1405'>Οργάνωση και Αρχιτεκτονική Υπολογιστικών Συστημάτων</p>
+                            <p class="function1602_steps" style="display:none" data-step='1602'>Ενσωματωμένα Συστήματα</p>
+                            <p class="function1839_steps" style="display:none" data-step='1839'>Ηλεκτροκίνηση και Ευφυή Δίκτυα</p>
+                            <p class="function1841_steps" style="display:none" data-step='1841'>Οργάνωση Δεδομένων και Εξόρυξη Πληροφορίας</p>
+                        </td>
+                        <td id="Τετάρτη">
+                            <p class="function1202a_steps" style="display:none" data-step='1202a'>Μετρήσεις και Κυκλώματα Εναλλασσόμενου Ρεύματος A1</p>
+                            <p class="function1205b_steps" style="display:none" data-step='1205b'>Αντικειμενοστρεφής Προγραμματισμός A2</p>
+                            <p class="function1404_steps" style="display:none" data-step='1404'>Ηλεκτρονικά Κυκλώματα</p>
+                            <p class="function1602_steps" style="display:none" data-step='1602'>Ενσωματωμένα Συστήματα</p>
+                            <p class="function1811_steps" style="display:none" data-step='1811'>Εφαρμογές Συστημάτων Αυτομάτου Ελέγχου</p>
+                            <p class="function1841_steps" style="display:none" data-step='1841'>Οργάνωση Δεδομένων και Εξόρυξη Πληροφορίας</p>
+                        </td>
+                        <td id="Πέμπτη">
+                            <p class="function1203a_steps" style="display:none" data-step='1203a'>Τεχνική Συγγραφή, Παρουσίαση και Ορολογία Ξένης Γλώσσας A1</p>
+                            <p class="function1203b_steps" style="display:none" data-step='1203b'>Τεχνική Συγγραφή, Παρουσίαση και Ορολογία Ξένης Γλώσσας A2</p>
+                            <p class="function1403_steps" style="display:none" data-step='1403'>Εισαγωγή στα Λειτουργικά Συστήματα</p>
+                            <p class="function1611_steps" style="display:none" data-step='1611'>Σύνθεση Ηλεκτρονικών Κυκλωμάτων</p>
+                            <p class="function1801_steps" style="display:none" data-step='1801'>Ασφάλεια Πληροφοριακών Συστημάτων</p>
+                        </td>
+                        <td id="Παρασκευή">
+                            <p class="function1204a_steps" style="display:none" data-step='1204a'>Σχεδίαση Ψηφιακών Συστημάτων A1</p>
+                            <p class="function1612_steps" style="display:none" data-step='1612'>Κβαντική Υπολογιστική</p>
+                            <p class="function1643_steps" style="display:none" data-step='1643'>Διοίκηση Έργων</p>
+                            <p class="function1842_steps" style="display:none" data-step='1842'>Διαδικτυακές Υπηρεσίες Προστιθέμενης Αξίας</p>
+                        </td>
                     </tr>
                     <tr>
                         <td>10:00 - 11:00</td>
-                        <td id="Δευτέρα"></td>
-                        <td id="Τρίτη"></td>
-                        <td id="Τετάρτη"></td>
-                        <td id="Πέμπτη"></td>
-                        <td id="Παρασκευή"></td>
+                        <td id="Δευτέρα">
+                            <p class="function1202a_steps" style="display:none" data-step='1202a'>Μετρήσεις και Κυκλώματα Εναλλασσόμενου Ρεύματος A1</p>
+                            <p class="function1205b_steps" style="display:none" data-step='1205b'>Αντικειμενοστρεφής Προγραμματισμός A2</p>
+                            <p class="function1642_steps" style="display:none" data-step='1642'>Προηγμένα Θέματα Αλληλεπίδρασης (Προγραμματισμός Κινητών Συσκευών)</p>
+                            <p class="function1803_steps" style="display:none" data-step='1803'>Διαδίκτυο των Πραγμάτων</p>
+                        </td>
+                        <td id="Τρίτη">
+                            <p class="function1204a_steps" style="display:none" data-step='1204a'>Σχεδίαση Ψηφιακών Συστημάτων A1</p>
+                            <p class="function1201b_steps" style="display:none" data-step='1201b'>Μαθηματικά ΙΙ A2</p>
+                            <p class="function1405_steps" style="display:none" data-step='1405'>Οργάνωση και Αρχιτεκτονική Υπολογιστικών Συστημάτων</p>
+                            <p class="function1602_steps" style="display:none" data-step='1602'>Ενσωματωμένα Συστήματα</p>
+                            <p class="function1839_steps" style="display:none" data-step='1839'>Ηλεκτροκίνηση και Ευφυή Δίκτυα</p>
+                            <p class="function1841_steps" style="display:none" data-step='1841'>Οργάνωση Δεδομένων και Εξόρυξη Πληροφορίας</p>
+                        </td>
+                        <td id="Τετάρτη">
+                            <p class="function1202a_steps" style="display:none" data-step='1202a'>Μετρήσεις και Κυκλώματα Εναλλασσόμενου Ρεύματος A1</p>
+                            <p class="function1205b_steps" style="display:none" data-step='1205b'>Αντικειμενοστρεφής Προγραμματισμός A2</p>
+                            <p class="function1404_steps" style="display:none" data-step='1404'>Ηλεκτρονικά Κυκλώματα</p>
+                            <p class="function1602_steps" style="display:none" data-step='1602'>Ενσωματωμένα Συστήματα</p>
+                            <p class="function1811_steps" style="display:none" data-step='1811'>Εφαρμογές Συστημάτων Αυτομάτου Ελέγχου</p>
+                            <p class="function1841_steps" style="display:none" data-step='1841'>Οργάνωση Δεδομένων και Εξόρυξη Πληροφορίας</p>
+                        </td>
+                        <td id="Πέμπτη">
+                            <p class="function1203a_steps" style="display:none" data-step='1203a'>Τεχνική Συγγραφή, Παρουσίαση και Ορολογία Ξένης Γλώσσας A1</p>
+                            <p class="function1203b_steps" style="display:none" data-step='1203b'>Τεχνική Συγγραφή, Παρουσίαση και Ορολογία Ξένης Γλώσσας A2</p>
+                            <p class="function1403_steps" style="display:none" data-step='1403'>Εισαγωγή στα Λειτουργικά Συστήματα</p>
+                            <p class="function1611_steps" style="display:none" data-step='1611'>Σύνθεση Ηλεκτρονικών Κυκλωμάτων</p>
+                            <p class="function1801_steps" style="display:none" data-step='1801'>Ασφάλεια Πληροφοριακών Συστημάτων</p>
+                        </td>
+                        <td id="Παρασκευή">
+                            <p class="function1204a_steps" style="display:none" data-step='1204a'>Σχεδίαση Ψηφιακών Συστημάτων A1</p>
+                            <p class="function1612_steps" style="display:none" data-step='1612'>Κβαντική Υπολογιστική</p>
+                            <p class="function1643_steps" style="display:none" data-step='1643'>Διοίκηση Έργων</p>
+                            <p class="function1842_steps" style="display:none" data-step='1842'>Διαδικτυακές Υπηρεσίες Προστιθέμενης Αξίας</p>
+                        </td>
                     </tr>
                     <tr>
                         <td>11:00 - 12:00</td>
-                        <td id="Δευτέρα"></td>
-                        <td id="Τρίτη"></td>
-                        <td id="Τετάρτη"></td>
-                        <td id="Πέμπτη"></td>
-                        <td id="Παρασκευή"></td>
+                        <td id="Δευτέρα">
+                            <p class="function1205a_steps" style="display:none" data-step='1205a'>Αντικειμενοστρεφής Προγραμματισμός A1</p>
+                            <p class="function1202b_steps" style="display:none" data-step='1202b'>Μετρήσεις και Κυκλώματα Εναλλασσόμενου Ρεύματος A2</p>
+                            <p class="function1401_steps" style="display:none" data-step='1401'>Συστήματα Διαχείρισης Βάσεων Δεδομένων</p>
+                            <p class="function1601_steps" style="display:none" data-step='1601'>Τεχνητή Νοημοσύνη</p>
+                            <p class="function1801_steps" style="display:none" data-step='1801'>Ασφάλεια Πληροφοριακών Συστημάτων</p>
+                        </td>
+                        <td id="Τρίτη">
+                            <p class="function1201a_steps" style="display:none" data-step='1201a'>Μαθηματικά ΙΙ A1</p>
+                            <p class="function1204b_steps" style="display:none" data-step='1204b'>Σχεδίαση Ψηφιακών Συστημάτων A2</p>
+                            <p class="function1402_steps" style="display:none" data-step='1402'>Τηλεπικοινωνιακά Συστήματα</p>
+                            <p class="function1611_steps" style="display:none" data-step='1611'>Σύνθεση Ηλεκτρονικών Κυκλωμάτων</p>
+                            <p class="function1842_steps" style="display:none" data-step='1842'>Διαδικτυακές Υπηρεσίες Προστιθέμενης Αξίας</p>
+                        </td>
+                        <td id="Τετάρτη">
+                            <p class="function1205a_steps" style="display:none" data-step='1205a'>Αντικειμενοστρεφής Προγραμματισμός A1</p>
+                            <p class="function1202b_steps" style="display:none" data-step='1202b'>Μετρήσεις και Κυκλώματα Εναλλασσόμενου Ρεύματος A2</p>
+                            <p class="function1401_steps" style="display:none" data-step='1401'>Συστήματα Διαχείρισης Βάσεων Δεδομένων</p>
+                            <p class="function1612_steps" style="display:none" data-step='1612'>Κβαντική Υπολογιστική</p>
+                            <p class="function1643_steps" style="display:none" data-step='1643'>Διοίκηση Έργων</p>
+                            <p class="function1874_steps" style="display:none" data-step='1874'>Συστήματα Κινητών Επικοινωνιών</p>
+                        </td>
+                        <td id="Πέμπτη">
+                            <p class="function1203a_steps" style="display:none" data-step='1203a'>Τεχνική Συγγραφή, Παρουσίαση και Ορολογία Ξένης Γλώσσας A1</p>
+                            <p class="function1203b_steps" style="display:none" data-step='1203b'>Τεχνική Συγγραφή, Παρουσίαση και Ορολογία Ξένης Γλώσσας A2</p>
+                            <p class="function1405_steps" style="display:none" data-step='1405'>Οργάνωση και Αρχιτεκτονική Υπολογιστικών Συστημάτων</p>
+                            <p class="function1601_steps" style="display:none" data-step='1601'>Τεχνητή Νοημοσύνη</p>
+                            <p class="function1803_steps" style="display:none" data-step='1803'>Διαδίκτυο των Πραγμάτων</p>
+                        </td>
+                        <td id="Παρασκευή">
+                            <p class="function1204b_steps" style="display:none" data-step='1204b'>Σχεδίαση Ψηφιακών Συστημάτων A2</p>
+                            <p class="function1873_steps" style="display:none" data-step='1873'>Προηγμένα Θέματα Δικτύων</p>
+                        </td>
                     </tr>
                         <td>12:00 - 13:00</td>
-                        <td id="Δευτέρα"></td>
-                        <td id="Τρίτη"></td>
-                        <td id="Τετάρτη"></td>
-                        <td id="Πέμπτη"></td>
-                        <td id="Παρασκευή"></td>
+                        <td id="Δευτέρα">
+                            <p class="function1205a_steps" style="display:none" data-step='1205a'>Αντικειμενοστρεφής Προγραμματισμός A1</p>
+                            <p class="function1202b_steps" style="display:none" data-step='1202b'>Μετρήσεις και Κυκλώματα Εναλλασσόμενου Ρεύματος A2</p>
+                            <p class="function1401_steps" style="display:none" data-step='1401'>Συστήματα Διαχείρισης Βάσεων Δεδομένων</p>
+                            <p class="function1601_steps" style="display:none" data-step='1601'>Τεχνητή Νοημοσύνη</p>
+                            <p class="function1801_steps" style="display:none" data-step='1801'>Ασφάλεια Πληροφοριακών Συστημάτων</p>
+                        </td>
+                        <td id="Τρίτη">
+                            <p class="function1201a_steps" style="display:none" data-step='1201a'>Μαθηματικά ΙΙ A1</p>
+                            <p class="function1204b_steps" style="display:none" data-step='1204b'>Σχεδίαση Ψηφιακών Συστημάτων A2</p>
+                            <p class="function1402_steps" style="display:none" data-step='1402'>Τηλεπικοινωνιακά Συστήματα</p>
+                            <p class="function1611_steps" style="display:none" data-step='1611'>Σύνθεση Ηλεκτρονικών Κυκλωμάτων</p>
+                            <p class="function1842_steps" style="display:none" data-step='1842'>Διαδικτυακές Υπηρεσίες Προστιθέμενης Αξίας</p>
+                        </td>
+                        <td id="Τετάρτη">
+                            <p class="function1205a_steps" style="display:none" data-step='1205a'>Αντικειμενοστρεφής Προγραμματισμός A1</p>
+                            <p class="function1202b_steps" style="display:none" data-step='1202b'>Μετρήσεις και Κυκλώματα Εναλλασσόμενου Ρεύματος A2</p>
+                            <p class="function1401_steps" style="display:none" data-step='1401'>Συστήματα Διαχείρισης Βάσεων Δεδομένων</p>
+                            <p class="function1612_steps" style="display:none" data-step='1612'>Κβαντική Υπολογιστική</p>
+                            <p class="function1643_steps" style="display:none" data-step='1643'>Διοίκηση Έργων</p>
+                            <p class="function1874_steps" style="display:none" data-step='1874'>Συστήματα Κινητών Επικοινωνιών</p>
+                        </td>
+                        <td id="Πέμπτη">
+                            <p class="function1203a_steps" style="display:none" data-step='1203a'>Τεχνική Συγγραφή, Παρουσίαση και Ορολογία Ξένης Γλώσσας A1</p>
+                            <p class="function1203b_steps" style="display:none" data-step='1203b'>Τεχνική Συγγραφή, Παρουσίαση και Ορολογία Ξένης Γλώσσας A2</p>
+                            <p class="function1405_steps" style="display:none" data-step='1405'>Οργάνωση και Αρχιτεκτονική Υπολογιστικών Συστημάτων</p>
+                            <p class="function1601_steps" style="display:none" data-step='1601'>Τεχνητή Νοημοσύνη</p>
+                            <p class="function1803_steps" style="display:none" data-step='1803'>Διαδίκτυο των Πραγμάτων</p>
+                        </td>
+                        <td id="Παρασκευή">
+                            <p class="function1204b_steps" style="display:none" data-step='1204b'>Σχεδίαση Ψηφιακών Συστημάτων A2</p>
+                            <p class="function1873_steps" style="display:none" data-step='1873'>Προηγμένα Θέματα Δικτύων</p>
+                        </td>
                     </tr>
                         <td>13:00 - 14:00</td>
                         <td id="Δευτέρα"></td>
@@ -63,32 +179,100 @@ export default class extends AbstractView {
                         <td id="Παρασκευή"></td>
                     </tr>
                         <td>14:00 - 15:00</td>
-                        <td id="Δευτέρα"></td>
-                        <td id="Τρίτη"></td>
-                        <td id="Τετάρτη"></td>
-                        <td id="Πέμπτη"></td>
-                        <td id="Παρασκευή"></td>
+                        <td id="Δευτέρα">
+                            <p class="function1404_steps" style="display:none" data-step='1404'>Ηλεκτρονικα Κυκλώματα</p>
+                            <p class="function1671_steps" style="display:none" data-step='1671'>Μικροκυματική Τεχνολογία και Τηλεπισκόπηση</p>
+                            <p class="function1802_steps" style="display:none" data-step='1802'>Αρχές και Μέθοδοι Μηχανικής Μάθησης</p>
+                        </td>
+                        <td id="Τρίτη">
+                            <p class="function1403_steps" style="display:none" data-step='1403'>Εισαγωγή στα Λειτουργικά Συστήματα</p>
+                            <p class="function1871_steps" style="display:none" data-step='1871'>Ασύρματα Δίκτυα</p>
+                        </td>
+                        <td id="Τετάρτη">
+                            <p class="function1201a_steps" style="display:none" data-step='1201a'>Μαθηματικά ΙΙ A1</p>
+                            <p class="function1402_steps" style="display:none" data-step='1402'>Τηλεπικοινωνιακά Συστήματα</p>
+                            <p class="function1812_steps" style="display:none" data-step='1812'>Μετατροπείς Ισχύος</p>
+                            <p class="function1872_steps" style="display:none" data-step='1872'>Ειδικά Θέματα Δικτύων (CCNA) 1</p>
+                        </td>
+                        <td id="Πέμπτη">
+                            <p class="function1642_steps" style="display:none" data-step='1642'>Προηγμένα Θέματα Αλληλεπίδρασης (Προγραμματισμός Κινητών Συσκευών)</p>
+                            <p class="function1802_steps" style="display:none" data-step='1802'>Αρχές και Μέθοδοι Μηχανικής Μάθησης</p>
+                        </td>
+                        <td id="Παρασκευή">
+                            <p class="function1672_steps" style="display:none" data-step='1672'>Οπτοηλεκτρονική και Οπτικές Επικοινωνίες</p>
+                            <p class="function1874_steps" style="display:none" data-step='1874'>Συστήματα Κινητών Επικοινωνιών</p>
+                        </td>
                     </tr>
                         <td>15:00 - 16:00</td>
-                        <td id="Δευτέρα"></td>
-                        <td id="Τρίτη"></td>
-                        <td id="Τετάρτη"></td>
-                        <td id="Πέμπτη"></td>
-                        <td id="Παρασκευή"></td>
+                        <td id="Δευτέρα">
+                            <p class="function1404_steps" style="display:none" data-step='1404'>Ηλεκτρονικα Κυκλώματα</p>
+                            <p class="function1671_steps" style="display:none" data-step='1671'>Μικροκυματική Τεχνολογία και Τηλεπισκόπηση</p>
+                            <p class="function1802_steps" style="display:none" data-step='1802'>Αρχές και Μέθοδοι Μηχανικής Μάθησης</p>
+                        </td>
+                        <td id="Τρίτη">
+                            <p class="function1403_steps" style="display:none" data-step='1403'>Εισαγωγή στα Λειτουργικά Συστήματα</p>
+                            <p class="function1871_steps" style="display:none" data-step='1871'>Ασύρματα Δίκτυα</p>
+                        </td>
+                        <td id="Τετάρτη">
+                            <p class="function1201a_steps" style="display:none" data-step='1201a'>Μαθηματικά ΙΙ A1</p>
+                            <p class="function1402_steps" style="display:none" data-step='1402'>Τηλεπικοινωνιακά Συστήματα</p>
+                            <p class="function1812_steps" style="display:none" data-step='1812'>Μετατροπείς Ισχύος</p>
+                            <p class="function1872_steps" style="display:none" data-step='1872'>Ειδικά Θέματα Δικτύων (CCNA) 1</p>
+                        </td>
+                        <td id="Πέμπτη">
+                            <p class="function1642_steps" style="display:none" data-step='1642'>Προηγμένα Θέματα Αλληλεπίδρασης (Προγραμματισμός Κινητών Συσκευών)</p>
+                            <p class="function1802_steps" style="display:none" data-step='1802'>Αρχές και Μέθοδοι Μηχανικής Μάθησης</p>
+                        </td>
+                        <td id="Παρασκευή">
+                            <p class="function1672_steps" style="display:none" data-step='1672'>Οπτοηλεκτρονική και Οπτικές Επικοινωνίες</p>
+                            <p class="function1874_steps" style="display:none" data-step='1874'>Συστήματα Κινητών Επικοινωνιών</p>
+                        </td>
                     </tr>
                         <td>16:00 - 17:00</td>
-                        <td id="Δευτέρα"></td>
-                        <td id="Τρίτη"></td>
-                        <td id="Τετάρτη"></td>
-                        <td id="Πέμπτη"></td>
-                        <td id="Παρασκευή"></td>
+                        <td id="Δευτέρα">
+                            <p class="function1641_steps" style="display:none" data-step='1641'>Αριθμητικές Μέθοδοι</p>
+                            <p class="function1948_steps" style="display:none" data-step='1948'>Ανάπτυξη Ολοκληρωμένων Πληροφοριακών Συστημάτων</p>
+                        </td>
+                        <td id="Τρίτη">
+                            <p class="function1673_steps" style="display:none" data-step='1673'>Συστήματα Μέσων Μαζικής Επικοινωνίας</p>
+                            <p class="function1873_steps" style="display:none" data-step='1873'>Προηγμένα Θέματα Δικτύων</p>
+                            <p class="function1899_steps" style="display:none" data-step='1899'>Ραδιοτηλεοπτική Παραγωγή</p>
+                        </td>
+                        <td id="Τετάρτη">
+                            <p class="function1201b_steps" style="display:none" data-step='1201b'>Μαθηματικά ΙΙ A2</p>
+                            <p class="function1671_steps" style="display:none" data-step='1671'>Μικροκυματική Τεχνολογία και Τηλεπισκόπηση</p>
+                        </td>
+                        <td id="Πέμπτη">
+                            <p class="function1641_steps" style="display:none" data-step='1641'>Αριθμητικές Μέθοδοι</p>
+                            <p class="function1871_steps" style="display:none" data-step='1871'>Ασύρματα Δίκτυα</p>
+                        </td>
+                        <td id="Παρασκευή">
+                            <p class="function1672_steps" style="display:none" data-step='1672'>Οπτοηλεκτρονική και Οπτικές Επικοινωνίες</p>
+                            <p class="function1948_steps" style="display:none" data-step='1948'>Ανάπτυξη Ολοκληρωμένων Πληροφοριακών Συστημάτων</p>
+                        </td>
                     </tr>
                         <td>17:00 - 18:00</td>
-                        <td id="Δευτέρα"></td>
-                        <td id="Τρίτη"></td>
-                        <td id="Τετάρτη"></td>
-                        <td id="Πέμπτη"></td>
-                        <td id="Παρασκευή"></td>
+                        <td id="Δευτέρα">
+                            <p class="function1641_steps" style="display:none" data-step='1641'>Αριθμητικές Μέθοδοι</p>
+                            <p class="function1948_steps" style="display:none" data-step='1948'>Ανάπτυξη Ολοκληρωμένων Πληροφοριακών Συστημάτων</p>
+                        </td>
+                        <td id="Τρίτη">
+                            <p class="function1673_steps" style="display:none" data-step='1673'>Συστήματα Μέσων Μαζικής Επικοινωνίας</p>
+                            <p class="function1873_steps" style="display:none" data-step='1873'>Προηγμένα Θέματα Δικτύων</p>
+                            <p class="function1899_steps" style="display:none" data-step='1899'>Ραδιοτηλεοπτική Παραγωγή</p>
+                        </td>
+                        <td id="Τετάρτη">
+                            <p class="function1201b_steps" style="display:none" data-step='1201b'>Μαθηματικά ΙΙ A2</p>
+                            <p class="function1671_steps" style="display:none" data-step='1671'>Μικροκυματική Τεχνολογία και Τηλεπισκόπηση</p>
+                        </td>
+                        <td id="Πέμπτη">
+                            <p class="function1641_steps" style="display:none" data-step='1641'>Αριθμητικές Μέθοδοι</p>
+                            <p class="function1871_steps" style="display:none" data-step='1871'>Ασύρματα Δίκτυα</p>
+                        </td>
+                        <td id="Παρασκευή">
+                            <p class="function1672_steps" style="display:none" data-step='1672'>Οπτοηλεκτρονική και Οπτικές Επικοινωνίες</p>
+                            <p class="function1948_steps" style="display:none" data-step='1948'>Ανάπτυξη Ολοκληρωμένων Πληροφοριακών Συστημάτων</p>
+                        </td>
                     </tr>
                         <td>18:00 - 19:00</td>
                         <td id="Δευτέρα"></td>
@@ -132,8 +316,8 @@ export default class extends AbstractView {
                     <!-- 4ο Εξάμηνο -->
                     <p class="function1401_steps" style="display:none" data-step='1401'>Συστήματα Διαχείρισης Βάσεων Δεδομένων</p>
                     <p class="function1402_steps" style="display:none" data-step='1402'>Τηλεπικοινωνιακά Συστήματα</p>
-                    <p class="function1403_steps" style="display:none" data-step='1403'>Επεξεργασία Σήματος</p>
-                    <p class="function1404_steps" style="display:none" data-step='1404'>Εισαγωγή στα Λειτουργικά Συστήματα</p>
+                    <p class="function1403_steps" style="display:none" data-step='1403'>Εισαγωγή στα Λειτουργικά Συστήματα</p>
+                    <p class="function1404_steps" style="display:none" data-step='1404'>Ηλεκτρονικα Κυκλώματα</p>
                     <p class="function1405_steps" style="display:none" data-step='1405'>Οργάνωση και Αρχιτεκτονική Υπολογιστικών Συστημάτων</p>
                     <!-- 6ο Εξάμηνο -->
                     <p class="function1601_steps" style="display:none" data-step='1601'>Τεχνητή Νοημοσύνη</p>
@@ -147,24 +331,15 @@ export default class extends AbstractView {
                     <p class="function1671_steps" style="display:none" data-step='1671'>Μικροκυματική Τεχνολογία και Τηλεπισκόπηση</p>
                     <p class="function1672_steps" style="display:none" data-step='1672'>Οπτοηλεκτρονική και Οπτικές Επικοινωνίες</p>
                     <p class="function1673_steps" style="display:none" data-step='1673'>Συστήματα Μέσων Μαζικής Επικοινωνίας</p>
-                    <!-- 8ο Εξάμηνο -->
-                    <p class="function1701_steps" style="display:none" data-step='1701'>Δίκτυα Υπολογιστών</p>
-                    <p class="function1702_steps" style="display:none" data-step='1702'>Ηλεκτρονικά Ισχύος</p>
-                    <p class="function1711_steps" style="display:none" data-step='1711'>Συστήματα Αυτομάτου Ελέγχου</p>
-                    <p class="function1712_steps" style="display:none" data-step='1712'>Αισθητήρια και Επεξεργασία Μετρήσεων</p>
-                    <p class="function1713_steps" style="display:none" data-step='1713'>Προγραμματιζόμενοι Λογικοί Ελεγκτές</p>
-                    <p class="function1714_steps" style="display:none" data-step='1714'>Σχεδίαση Επαναπροσδιοριζόμενων Ψηφιακών Συστημάτων (FPGA)</p>
-                    <p class="function1741_steps" style="display:none" data-step='1741'>Εισαγωγή στην Αναλυτική των Δεδομένων</p>
-                    <p class="function1742_steps" style="display:none" data-step='1742'>Μηχανική Λογισμικού</p>
-                    <p class="function1743_steps" style="display:none" data-step='1743'>Τεχνολογία Βάσεων Δεδομένων</p>
-                    <p class="function1744_steps" style="display:none" data-step='1744'>Προηγμένες Αρχιτεκτονικές Υπολογιστών και Προγραμματισμός Παράλληλων Συστημάτων</p>
-                    <p class="function1771_steps" style="display:none" data-step='1771'>Τεχνολογίες Ήχου και Εικόνας</p>
-                    <!-- 8ο Εξάμηνο -->
+                    <!-- 8ο Εξάμηνο --> 
+                    <p class="function1801_steps" style="display:none" data-step='1801'>Ασφάλεια Πληροφοριακών Συστημάτων</p>
+                    <p class="function1802_steps" style="display:none" data-step='1802'>Αρχές και Μέθοδοι Μηχανικής Μάθησης</p>
+                    <p class="function1803_steps" style="display:none" data-step='1803'>Διαδίκτυο των Πραγμάτων</p>
                     <p class="function1811_steps" style="display:none" data-step='1811'>Εφαρμογές Συστημάτων Αυτομάτου Ελέγχου</p>
                     <p class="function1812_steps" style="display:none" data-step='1812'>Μετατροπείς Ισχύος</p>
                     <p class="function1837_steps" style="display:none" data-step='1837'>Μικροηλεκτρονική *</p>
                     <p class="function1838_steps" style="display:none" data-step='1838'>Εφαρμογές Συστημάτων Ισχύος και ΑΠΕ *</p>
-                    <p class="function1839_steps" style="display:none" data-step='1839'>Ηλεκτροκίνηση και Ευφυή Δίκτυα *</p>
+                    <p class="function1839_steps" style="display:none" data-step='1839'>Ηλεκτροκίνηση και Ευφυή Δίκτυα</p>
                     <p class="function1841_steps" style="display:none" data-step='1841'>Οργάνωση Δεδομένων και Εξόρυξη Πληροφορίας</p>
                     <p class="function1842_steps" style="display:none" data-step='1842'>Διαδικτυακές Υπηρεσίες Προστιθέμενης Αξίας</p>
                     <p class="function1948_steps" style="display:none" data-step='1948'>Ανάπτυξη Ολοκληρωμένων Πληροφοριακών Συστημάτων</p>
@@ -173,7 +348,7 @@ export default class extends AbstractView {
                     <p class="function1873_steps" style="display:none" data-step='1873'>Προηγμένα Θέματα Δικτύων</p>
                     <p class="function1874_steps" style="display:none" data-step='1874'>Συστήματα Κινητών Επικοινωνιών</p>
                     <p class="function1898_steps" style="display:none" data-step='1898'>Ελεύθερη Επιλογή Β</p>
-                    <p class="function1899_steps" style="display:none" data-step='1899'>Ραδιοτηλεοπτική Παραγωγή *</p>
+                    <p class="function1899_steps" style="display:none" data-step='1899'>Ραδιοτηλεοπτική Παραγωγή</p>
                 </div>
             </section>
             <section class="cards">
@@ -223,6 +398,12 @@ export default class extends AbstractView {
                     <p><input type="checkbox" data-step='1671' onclick="myFunction(this)">Μικροκυματική Τεχνολογία και Τηλεπισκόπηση</p>
                     <p><input type="checkbox" data-step='1672' onclick="myFunction(this)">Οπτοηλεκτρονική και Οπτικές Επικοινωνίες</p>
                     <p><input type="checkbox" data-step='1673' onclick="myFunction(this)">Συστήματα Μέσων Μαζικής Επικοινωνίας</p>
+                </div>
+                <div class="card">
+                    <p class="card-title">8o Εξάμηνο</p>
+                    <p><input type="checkbox" data-step='1801' onclick="myFunction(this)">Ασφάλεια Πληροφοριακών Συστημάτων</p>
+                    <p><input type="checkbox" data-step='1802' onclick="myFunction(this)">Αρχές και Μέθοδοι Μηχανικής Μάθησης</p>
+                    <p><input type="checkbox" data-step='1803' onclick="myFunction(this)">Διαδίκτυο των Πραγμάτων</p>
                 </div>
                 <div class="card">
                     <p class="card-title">8o Εξάμηνο - Ομάδα Ηλεκτρονικών και Ενσωματωμένων Συστημάτων (ΗΛΕΣ)</p>
