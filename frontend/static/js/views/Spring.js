@@ -54,6 +54,7 @@ export default class extends AbstractView {
                             <p class="function1403_steps" style="display:none" data-step='1403'>Εισαγωγή στα Λειτουργικά Συστήματα</p>
                             <p class="function1611_steps" style="display:none" data-step='1611'>Σύνθεση Ηλεκτρονικών Κυκλωμάτων</p>
                             <p class="function1801_steps" style="display:none" data-step='1801'>Ασφάλεια Πληροφοριακών Συστημάτων</p>
+                            <p class="function1741_steps" style="display:none" data-step='1741'>Εισαγωγή στην Αναλυτική των Δεδομένων</p>
                         </td>
                         <td id="Παρασκευή">
                             <p class="function1204a_steps" style="display:none" data-step='1204a'>Σχεδίαση Ψηφιακών Συστημάτων A1</p>
@@ -92,6 +93,7 @@ export default class extends AbstractView {
                             <p class="function1403_steps" style="display:none" data-step='1403'>Εισαγωγή στα Λειτουργικά Συστήματα</p>
                             <p class="function1611_steps" style="display:none" data-step='1611'>Σύνθεση Ηλεκτρονικών Κυκλωμάτων</p>
                             <p class="function1801_steps" style="display:none" data-step='1801'>Ασφάλεια Πληροφοριακών Συστημάτων</p>
+                            <p class="function1741_steps" style="display:none" data-step='1741'>Εισαγωγή στην Αναλυτική των Δεδομένων</p>
                         </td>
                         <td id="Παρασκευή">
                             <p class="function1204a_steps" style="display:none" data-step='1204a'>Σχεδίαση Ψηφιακών Συστημάτων A1</p>
@@ -115,6 +117,7 @@ export default class extends AbstractView {
                             <p class="function1402_steps" style="display:none" data-step='1402'>Τηλεπικοινωνιακά Συστήματα</p>
                             <p class="function1611_steps" style="display:none" data-step='1611'>Σύνθεση Ηλεκτρονικών Κυκλωμάτων</p>
                             <p class="function1842_steps" style="display:none" data-step='1842'>Διαδικτυακές Υπηρεσίες Προστιθέμενης Αξίας</p>
+                            <p class="function1741_steps" style="display:none" data-step='1741'>Εισαγωγή στην Αναλυτική των Δεδομένων</p>
                         </td>
                         <td id="Τετάρτη">
                             <p class="function1205a_steps" style="display:none" data-step='1205a'>Αντικειμενοστρεφής Προγραμματισμός A1</p>
@@ -150,6 +153,7 @@ export default class extends AbstractView {
                             <p class="function1402_steps" style="display:none" data-step='1402'>Τηλεπικοινωνιακά Συστήματα</p>
                             <p class="function1611_steps" style="display:none" data-step='1611'>Σύνθεση Ηλεκτρονικών Κυκλωμάτων</p>
                             <p class="function1842_steps" style="display:none" data-step='1842'>Διαδικτυακές Υπηρεσίες Προστιθέμενης Αξίας</p>
+                            <p class="function1741_steps" style="display:none" data-step='1741'>Εισαγωγή στην Αναλυτική των Δεδομένων</p>
                         </td>
                         <td id="Τετάρτη">
                             <p class="function1205a_steps" style="display:none" data-step='1205a'>Αντικειμενοστρεφής Προγραμματισμός A1</p>
@@ -322,6 +326,7 @@ export default class extends AbstractView {
                     <!-- 6ο Εξάμηνο -->
                     <p class="function1601_steps" style="display:none" data-step='1601'>Τεχνητή Νοημοσύνη</p>
                     <p class="function1602_steps" style="display:none" data-step='1602'>Ενσωματωμένα Συστήματα</p>
+                    <p class="function1741_steps" style="display:none" data-step='1741'>Εισαγωγή στην Αναλυτική των Δεδομένων</p>
                     <p class="function1611_steps" style="display:none" data-step='1611'>Σύνθεση Ηλεκτρονικών Κυκλωμάτων</p>
                     <p class="function1612_steps" style="display:none" data-step='1612'>Κβαντική Υπολογιστική</p>
                     <p class="function1613_steps" style="display:none" data-step='1613'>Μεθοδολογίες Σχεδιασμού Μικροηλεκτρονικών Κυκλωμάτων **</p>
@@ -380,6 +385,7 @@ export default class extends AbstractView {
                     <p class="card-title">6o Εξάμηνο</p>
                     <p><input type="checkbox" data-step='1601' onclick="myFunction(this)">Τεχνητή Νοημοσύνη</p>
                     <p><input type="checkbox" data-step='1602' onclick="myFunction(this)">Ενσωματωμένα Συστήματα</p>
+                    <p><input type="checkbox" data-step='1741' onclick="myFunction(this)">Εισαγωγή στην Αναλυτική των Δεδομένων</p>
                 </div>
                 <div class="card">
                     <p class="card-title">6o Εξάμηνο - Ομάδα Ηλεκτρονικών και Ενσωματωμένων Συστημάτων (ΗΛΕΣ)</p>
